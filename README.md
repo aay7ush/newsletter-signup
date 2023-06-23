@@ -9,7 +9,7 @@ A simple newsletter sign-up form with a success message built using HTML, Tailwi
 
 ## Live Site
 
-Check out the live site [here](https://calculat0r-4pp.netlify.app/).
+Check out the live site [here](https://newsletter-s1gnup.netlify.app/).
 
 ## Features
 
