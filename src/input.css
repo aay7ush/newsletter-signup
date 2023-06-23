@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button:hover {
+    @apply bg-gradient-to-r from-[#fe5272] to-clr-tomato;
+    box-shadow: 2px 5px 20px hsl(4, 100%, 67%);
+  }
+}
